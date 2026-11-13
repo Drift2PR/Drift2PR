@@ -1,4 +1,4 @@
-drift2hcl/
+Drift2PR/
 ├── cmd/
 │   └── drift2hcl/        # Cobra CLI entrypoint
 ├── internal/
