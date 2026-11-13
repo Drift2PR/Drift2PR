@@ -1,4 +1,4 @@
-# drift2hcl 🚀
+# Drift2PR🚀
 
 > Autonomous open-source engine converting live cloud infrastructure drift and JSON state diffs back into clean Infrastructure as Code (IaC) patches.
 
@@ -22,7 +22,7 @@ However, this creates an immediate **Infrastructure Drift**: your live productio
 
 ## 🏗️ How It Works (Architecture)
 
-`drift2hcl` avoids fragile regex or raw string replacement. Instead, it combines AST (Abstract Syntax Tree) parsing with local state verification:
+`Drift2PR` avoids fragile regex or raw string replacement. Instead, it combines AST (Abstract Syntax Tree) parsing with local state verification:
 
 ```text
 [ Live Cloud Diff / tfplan.json ]
